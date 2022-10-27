@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://atiqurrahmanansari.github.io/csb-p0okih/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://atiqurrahmanansari.github.io/csb-p0okih/static/js/main.51bc5f34.chunk.js",
+    "main.js.map": "https://atiqurrahmanansari.github.io/csb-p0okih/static/js/main.51bc5f34.chunk.js.map",
+    "runtime-main.js": "https://atiqurrahmanansari.github.io/csb-p0okih/static/js/runtime-main.a1b6ef23.js",
+    "runtime-main.js.map": "https://atiqurrahmanansari.github.io/csb-p0okih/static/js/runtime-main.a1b6ef23.js.map",
+    "static/js/2.e9642be7.chunk.js": "https://atiqurrahmanansari.github.io/csb-p0okih/static/js/2.e9642be7.chunk.js",
+    "static/js/2.e9642be7.chunk.js.map": "https://atiqurrahmanansari.github.io/csb-p0okih/static/js/2.e9642be7.chunk.js.map",
+    "index.html": "https://atiqurrahmanansari.github.io/csb-p0okih/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://atiqurrahmanansari.github.io/csb-p0okih/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.e9642be7.chunk.js.LICENSE.txt": "https://atiqurrahmanansari.github.io/csb-p0okih/static/js/2.e9642be7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1b6ef23.js",
+    "static/js/2.e9642be7.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.51bc5f34.chunk.js"
+  ]
+}
